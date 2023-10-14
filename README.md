@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **Express js & Mongodb**
+- 🌱 I’m currently learning **Nest Js & Nx-Monorepos**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 I’m looking to collaborate on **Long term, High end projects**
 
 - 📫 Send me a mail **umersaleem50@gmail**
 
-- ⚡ Fun fact **I'm studing law & I'm really bad at that**
+- ⚡ Fun fact **I learnt all this on my own.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
