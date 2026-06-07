@@ -1,5 +1,5 @@
 <h3>Umar Saleem—@umersaleem50</h3>
-<p>I'm Umar—a web developer based in Pakistan. I love building web and mobile applications using ReactJS and ReactNative.</p>
+<p>I'm based in Pakistan. I love building web and mobile applications using ReactJS and ReactNative.</p>
 
 <p>I've been passionate about programming ever since I was a kid.</p>
 <p>Somehow, I ended up in law college.</p>
